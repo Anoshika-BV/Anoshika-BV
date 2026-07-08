@@ -8,7 +8,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Final_Year_BE_CSE-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Final_Year_CSE_student-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍_Coimbatore-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💼_Open_to_Work-7B68EE?style=for-the-badge" />
 </p>
@@ -19,13 +19,12 @@
 🚀 Building practical, real-world web applications <br>
 🌱 Continuously improving my Java and software development skills
 </p>
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,php,mysql,git,github,vscode&perline=6" />
 </p>
 
----
 
 ## 👩‍💻 About Me
 
