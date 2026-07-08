@@ -8,9 +8,9 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Final_Year_CSE_student-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍_Coimbatore-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💼_Open_to_Work-7B68EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Final%20Year-BE%20CSE-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-7B68EE?style=for-the-badge" />
 </p>
 
 <!-- Intro -->
@@ -28,15 +28,36 @@
 
 ## 👩‍💻 About Me
 
-🎓 Final Year Computer Science Engineering student at **Dr. N.G.P. Institute of Technology**
+- 🎓 Final Year B.E. Computer Science Engineering student at **Dr. N.G.P. Institute of Technology**
+- 💻 Passionate about building responsive and user-friendly web applications
+- 🚀 Completed projects in **Java, Web Development, and IoT**
+- 🌱 Currently strengthening my problem-solving and software development skills
+- 📫 **Email:** **anoshika2004@gmail.com**
+  ---
 
-💻 Passionate about developing responsive and user-friendly web applications.
+# 🚀 Featured Projects
 
-🚀 Developed academic and full-stack projects using **Java, HTML, CSS, JavaScript, PHP, and MySQL**.
+## ♻️ E-Waste Management System
 
-🌱 Continuously improving my problem-solving and software development skills while exploring modern web technologies.
+**Tech Stack:** Java
 
-📫 **Email:** **anoshika2004@gmail.com**
+A web-based application developed to promote responsible e-waste disposal and management by helping users understand and manage electronic waste effectively.
+
+---
+
+## 🗑️ IoT-Based Smart Garbage Collector
+
+**Tech Stack:** IoT
+
+An IoT-based smart waste monitoring system that detects garbage levels and supports efficient waste collection.
+
+---
+
+## 💊 MediScanner
+
+**Tech Stack:** Java
+
+A smart medicine scanner designed to simplify medicine identification and improve medication management.
 
 ## 🌐 Connect With Me
 
