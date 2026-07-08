@@ -51,23 +51,3 @@ Final Year BE CSE Student | Full Stack Developer
 
 </p>
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anoshika-BV&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoshika-BV&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anoshika-BV&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anoshika-BV&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anoshika-BV&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
