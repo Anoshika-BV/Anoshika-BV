@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Anoshika B V</h1>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Anoshika%20B%20V&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final%20Year%20BE%20CSE%20Student%20|%20Full%20Stack%20Developer&descAlignY=55"/>
 
-<h3 align="center">
-Final Year BE CSE Student | Full Stack Developer
-</h3>
-
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;Building+Real-World+Web+Applications;Turning+Ideas+into+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+Developer;Building+Real-World+Web+Applications;Always+Learning+and+Growing" alt="Typing SVG" />
 </p>
 
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Final_Year_BE_CSE-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_Coimbatore-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼_Open_to_Work-7B68EE?style=for-the-badge" />
+</p>
+
+<!-- Intro -->
 <p align="center">
 💻 Passionate about Full Stack Web Development <br>
 🚀 Building practical, real-world web applications <br>
-🌱 Continuously improving my Java and web development skills <br>
-📍 Coimbatore, Tamil Nadu, India
+🌱 Continuously improving my Java and software development skills
 </p>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
