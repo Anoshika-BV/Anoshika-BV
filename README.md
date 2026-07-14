@@ -130,13 +130,7 @@ An IoT-based smart waste monitoring system for efficient garbage collection.
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anoshika-BV&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
-
----
 
 ## 🌐 Connect
 
