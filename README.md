@@ -3,11 +3,11 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Anoshika%20B%20V&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Java%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Anoshika%20B%20V&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Java%20Developer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&height=55&lines=Aspiring+Software+Engineer;Java+Developer;Full+Stack+Developer;Building+Practical+Software;Always+Learning+%26+Growing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=1100&height=55&lines=Software+Engineer;Java+Developer;Full+Stack+Developer;Building+Practical+Software;Always+Learning+and+Growing"/>
 </p>
 
 <p align="center">
@@ -38,28 +38,23 @@
 <img src="https://komarev.com/ghpvc/?username=Anoshika-BV&style=flat-square&color=blueviolet"/>
 </p>
 
+#  Hi, I'm Anoshika
 
-# 👋 Hello, I'm Anoshika
+I'm a **Final-year B.E. Computer Science Engineering student** at **Dr. N.G.P. Institute of Technology**, passionate about building practical software solutions using **Java** and modern web technologies.
 
-I'm a **Final Year Computer Science Engineering student** passionate about building practical software that solves real-world problems.
+I'm continuously improving my skills in **Software Engineering**, **Backend Development**, and **Full Stack Development** while creating projects that solve real-world problems.
 
 <!-- ====================================================== -->
 <!--                     ABOUT ME                           -->
 <!-- ====================================================== -->
 
-# 💜 About Me
+# About Me
 
-### 👩‍💻 Who Am I?
+I'm **Anoshika B V**, a **Final-year B.E. Computer Science Engineering** student at **Dr. N.G.P. Institute of Technology** with a **CGPA of 8.69**.
 
-I'm **Anoshika B V**, a Final Year **Computer Science Engineering** student at **Dr. N.G.P. Institute of Technology** with a **CGPA of 8.69**.
+I enjoy building practical and user-friendly software using **Java**, **PHP**, **MySQL**, and modern web technologies. I like turning ideas into real applications while continuously improving my problem-solving, backend development, and software engineering skills.
 
-I'm passionate about building practical and user-friendly software using **Java** and modern web technologies. I enjoy solving problems, learning new technologies, and continuously improving my software development skills.
-
-Beyond coding, I enjoy creating projects that solve real-world problems and continuously expanding my technical knowledge through hands-on learning and development.
-
-I'm currently seeking opportunities as a **Software Engineer**, **Java Developer**, or **Full Stack Developer**.
-
-<br>
+Outside of academics, I enjoy exploring new technologies, building personal projects, and learning through hands-on development experiences.
 
 ## 🎯 Quick Snapshot
 
@@ -67,140 +62,190 @@ I'm currently seeking opportunities as a **Software Engineer**, **Java Developer
 |:------------:|:-------:|:-----------:|
 | B.E. Computer Science Engineering | **8.69** | Coimbatore, India |
 
-<br>
-
 ## 💼 Currently Seeking
 
 <p align="left">
+
 <img src="https://img.shields.io/badge/Software_Engineer-8A2BE2?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Java_Developer-7B68EE?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Full_Stack_Developer-6A5ACD?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Backend_Development-9370DB?style=for-the-badge"/>
+
 </p>
 
- # 🚀 Featured Projects
+<!-- ====================================================== -->
+<!--                     TECH STACK                         -->
+<!-- ====================================================== -->
 
-<table>
-<tr>
+# 🛠 Tech Stack
 
-<td width="50%">
+<div align="center">
 
-### 💊 MediScanner
+### 💻 Languages
 
-Healthcare application developed to simplify medicine identification and improve medication awareness.
+<img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql,mongodb"/>
 
-**Tech Stack**
+<br><br>
 
-`Java` `HTML` `CSS`
+### ⚙️ Frameworks & Libraries
 
-⭐ Smart medicine lookup
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
 
-⭐ User-friendly interface
+<br><br>
 
-⭐ Healthcare solution
+### 🛠 Tools & Platforms
 
-<a href="https://github.com/Anoshika-BV/MediScanner">
-<img src="https://img.shields.io/badge/View_Repository-8A2BE2?style=for-the-badge"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-</td>
-
-<td width="50%">
-
-### ♻️ E-Waste Management
-
-A web platform promoting responsible disposal of electronic waste.
-
-**Tech Stack**
-
-`PHP`
-
-`MySQL`
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-⭐ User authentication
-
-⭐ Waste collection requests
-
-⭐ Database integration
-
-<a href="https://github.com/Anoshika-BV/E-Waste-Management-System">
-<img src="https://img.shields.io/badge/View_Repository-8A2BE2?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br>
 
-### 🗑 IoT-Based Smart Garbage Collector
+### 📚 Currently Learning
 
-An IoT prototype that monitors garbage levels using sensors for efficient waste management.
+<p align="center">
 
-**Tech Stack**
+<img src="https://img.shields.io/badge/Data_Structures-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem_Solving-7B68EE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software_Engineering-6A5ACD?style=for-the-badge"/>
+
+</p>
+
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ====================================================== -->
+
+# 🚀 Featured Projects
+
+<details open>
+<summary><b>💊 MediScanner — Smart Medicine Scanner</b></summary>
+
+<br>
+
+📖 **Overview**
+
+A healthcare application designed to simplify medicine identification and improve medication awareness through a clean and user-friendly interface.
+
+🛠 **Tech Stack**
+
+`Java` `HTML` `CSS`
+
+✨ **Highlights**
+
+- Medicine information lookup
+- User-friendly interface
+- Healthcare-focused solution
+
+🔗 **Repository**
+
+[![Repository](https://img.shields.io/badge/View_Repository-8A2BE2?style=for-the-badge)](https://github.com/Anoshika-BV/MediScanner)
+
+</details>
+
+---
+
+<details>
+<summary><b>♻️ E-Waste Management System</b></summary>
+
+<br>
+
+📖 **Overview**
+
+A web application that promotes responsible electronic waste disposal by allowing users to manage and submit e-waste collection requests.
+
+🛠 **Tech Stack**
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+✨ **Highlights**
+
+- User Registration & Login
+- E-Waste Collection Requests
+- Database Integration
+- Waste Category Management
+
+🔗 **Repository**
+
+[![Repository](https://img.shields.io/badge/View_Repository-8A2BE2?style=for-the-badge)](https://github.com/Anoshika-BV/E-Waste-Management-System)
+
+</details>
+
+---
+
+<details>
+<summary><b>🗑 IoT-Based Smart Garbage Collector</b></summary>
+
+<br>
+
+📖 **Overview**
+
+An IoT-based prototype that monitors garbage levels using sensors to improve waste collection efficiency.
+
+🛠 **Tech Stack**
 
 `Arduino` `IoT`
 
-⭐ Sensor monitoring
+✨ **Highlights**
 
-⭐ Smart alerts
+- Sensor-based monitoring
+- Smart alert system
+- Efficient waste management
 
-⭐ Waste optimization
+</details>
 
+<!-- ====================================================== -->
+<!--                 PROFESSIONAL EXPERIENCE                -->
+<!-- ====================================================== -->
 
-# 💼 Internship Experience
+# 💼 Professional Experience
 
-### Full Stack Development Intern
+## Full Stack Development Intern
 
-**Nxtlogic Software Solutions**
-
+**Nxtlogic Software Solutions**  
+📍 Coimbatore, India  
 📅 June 2025
 
-Worked on developing responsive web applications and integrating frontend with backend systems.
+During my internship, I contributed to the development of responsive web applications, worked with frontend and backend technologies, and gained practical experience building database-driven applications in a collaborative environment.
 
-### Technologies
+### 🛠 Technologies Used
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,git,github,vscode"/>
 </p>
 
-### Key Contributions
+### 🚀 Key Contributions
 
-- Built responsive web pages
-- Connected applications with MySQL
-- Improved UI using Bootstrap
-- Collaborated on real-world development tasks
+- Developed responsive and user-friendly web pages using **HTML, CSS, and Bootstrap**
+- Built backend functionality using **PHP**
+- Integrated applications with **MySQL** for efficient data management
+- Used **Git & GitHub** for version control and collaboration
+- Strengthened practical knowledge of full stack web development through real-world projects
+
+
+
+<!-- ====================================================== -->
+<!--                  GITHUB ANALYTICS                      -->
+<!-- ====================================================== -->
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anoshika-BV&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=Anoshika-BV&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anoshika-BV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Anoshika-BV&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoshika-BV&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoshika-BV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anoshika-BV&theme=tokyo-night&hide_border=true"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anoshika-BV&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
-
 
 # 🌐 Connect With Me
 
@@ -231,5 +276,6 @@ Worked on developing responsive web applications and integrating frontend with b
 </p>
 
 <p align="center">
-Made with 💜 by <b>Anoshika B V</b>
+Made by <b> Anoshika B V</b>
 </p>
+
