@@ -43,7 +43,6 @@
 
 I'm a **Final Year Computer Science Engineering student** passionate about building practical software that solves real-world problems.
 
-
 <!-- ====================================================== -->
 <!--                     ABOUT ME                           -->
 <!-- ====================================================== -->
@@ -52,59 +51,54 @@ I'm a **Final Year Computer Science Engineering student** passionate about build
 
 <table>
 <tr>
-<td width="60%">
+
+<td width="60%" valign="top">
 
 ### 👩‍💻 Who Am I?
 
-I'm **Anoshika B V**, a Final Year **Computer Science Engineering** student at **Dr. N.G.P. Institute of Technology**.
+I'm **Anoshika B V**, a **Final Year Computer Science Engineering** student at **Dr. N.G.P. Institute of Technology** with a CGPA of **8.69**.
 
-I enjoy transforming ideas into practical software solutions through **Java** and **Full Stack Development**. My focus is on writing clean, maintainable code while continuously strengthening my problem-solving skills and understanding of software engineering principles.
+I'm passionate about building practical and user-friendly software using **Java** and modern web technologies. I enjoy solving problems, learning new technologies, and continuously improving my software development skills.
 
-Currently seeking opportunities where I can contribute, learn, and grow as a software engineer.
+I'm currently looking for opportunities as a **Software Engineer**, **Java Developer**, or **Full Stack Developer**.
 
 </td>
 
-<td width="40%">
-java
-class Anoshika {
+<td width="40%" valign="top">
 
-    String role =
-        "Software Engineer";
+<pre><code>
+public class Developer {
 
-    String[] interests = {
-        "Java",
-        "Full Stack",
-        "Backend",
-        "Problem Solving"
-    };
-
-    String cgpa = "8.69";
-
-    String location =
-        "Coimbatore, India";
+    String name = "Anoshika B V";
+    String role = "Software Engineer";
+    String language = "Java";
+    String focus = "Full Stack Development";
 
 }
-
+</code></pre>
 
 </td>
+
 </tr>
 </table>
 
+---
 
 ## 🎯 Quick Snapshot
 
 | 🎓 Education | 💯 CGPA | 📍 Location |
-|-------------|---------|------------|
+| :----------: | :-----: | :---------: |
 | B.E. Computer Science Engineering | **8.69** | Coimbatore, India |
-
-| 💼 Looking For | ❤️ Interests |
-|---------------|--------------|
-| Software Engineer • Java Developer • Full Stack Developer | Java • Full Stack Development • Backend Development • Software Engineering |
 
 ---
 
-I enjoy developing responsive web applications using **Java, PHP, MySQL, JavaScript, HTML, and CSS**, while continuously improving my software engineering, backend development, and problem-solving skills.
+## 💼 Career Interests
 
-Currently seeking opportunities as a **Software Engineer**, **Java Developer**, or **Full Stack Developer**.
+<p align="left">
+<img src="https://img.shields.io/badge/Software_Engineer-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java_Developer-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-9370DB?style=for-the-badge"/>
+</p>
 
 ---
