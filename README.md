@@ -49,56 +49,187 @@ I'm a **Final Year Computer Science Engineering student** passionate about build
 
 # 💜 About Me
 
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
 ### 👩‍💻 Who Am I?
 
-I'm **Anoshika B V**, a **Final Year Computer Science Engineering** student at **Dr. N.G.P. Institute of Technology** with a CGPA of **8.69**.
+I'm **Anoshika B V**, a Final Year **Computer Science Engineering** student at **Dr. N.G.P. Institute of Technology** with a **CGPA of 8.69**.
 
 I'm passionate about building practical and user-friendly software using **Java** and modern web technologies. I enjoy solving problems, learning new technologies, and continuously improving my software development skills.
 
-I'm currently looking for opportunities as a **Software Engineer**, **Java Developer**, or **Full Stack Developer**.
+Beyond coding, I enjoy creating projects that solve real-world problems and continuously expanding my technical knowledge through hands-on learning and development.
+
+I'm currently seeking opportunities as a **Software Engineer**, **Java Developer**, or **Full Stack Developer**.
+
+<br>
+
+## 🎯 Quick Snapshot
+
+| 🎓 Education | 💯 CGPA | 📍 Location |
+|:------------:|:-------:|:-----------:|
+| B.E. Computer Science Engineering | **8.69** | Coimbatore, India |
+
+<br>
+
+## 💼 Currently Seeking
+
+<p align="left">
+<img src="https://img.shields.io/badge/Software_Engineer-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java_Developer-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack_Developer-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend_Development-9370DB?style=for-the-badge"/>
+</p>
+
+ # 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💊 MediScanner
+
+Healthcare application developed to simplify medicine identification and improve medication awareness.
+
+**Tech Stack**
+
+`Java` `HTML` `CSS`
+
+⭐ Smart medicine lookup
+
+⭐ User-friendly interface
+
+⭐ Healthcare solution
+
+<a href="https://github.com/Anoshika-BV/MediScanner">
+<img src="https://img.shields.io/badge/View_Repository-8A2BE2?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="40%" valign="top">
+<td width="50%">
 
-<pre><code>
-public class Developer {
+### ♻️ E-Waste Management
 
-    String name = "Anoshika B V";
-    String role = "Software Engineer";
-    String language = "Java";
-    String focus = "Full Stack Development";
+A web platform promoting responsible disposal of electronic waste.
 
-}
-</code></pre>
+**Tech Stack**
+
+`PHP`
+
+`MySQL`
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+⭐ User authentication
+
+⭐ Waste collection requests
+
+⭐ Database integration
+
+<a href="https://github.com/Anoshika-BV/E-Waste-Management-System">
+<img src="https://img.shields.io/badge/View_Repository-8A2BE2?style=for-the-badge"/>
+</a>
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-## 🎯 Quick Snapshot
+### 🗑 IoT-Based Smart Garbage Collector
 
-| 🎓 Education | 💯 CGPA | 📍 Location |
-| :----------: | :-----: | :---------: |
-| B.E. Computer Science Engineering | **8.69** | Coimbatore, India |
+An IoT prototype that monitors garbage levels using sensors for efficient waste management.
 
----
+**Tech Stack**
 
-## 💼 Career Interests
+`Arduino` `IoT`
 
-<p align="left">
-<img src="https://img.shields.io/badge/Software_Engineer-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java_Developer-7B68EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full_Stack-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-9370DB?style=for-the-badge"/>
+⭐ Sensor monitoring
+
+⭐ Smart alerts
+
+⭐ Waste optimization
+
+
+# 💼 Internship Experience
+
+### Full Stack Development Intern
+
+**Nxtlogic Software Solutions**
+
+📅 June 2025
+
+Worked on developing responsive web applications and integrating frontend with backend systems.
+
+### Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,git,github,vscode"/>
+</p>
+
+### Key Contributions
+
+- Built responsive web pages
+- Connected applications with MySQL
+- Improved UI using Bootstrap
+- Collaborated on real-world development tasks
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anoshika-BV&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=Anoshika-BV&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoshika-BV&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anoshika-BV&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:anoshika2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anoshika-b-v-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Anoshika-BV">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Anoshika/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
 ---
+
+<p align="center">
+<i>"Building software through curiosity, consistency, and continuous learning."</i>
+</p>
+
+<p align="center">
+Made with 💜 by <b>Anoshika B V</b>
+</p>
