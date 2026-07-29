@@ -38,11 +38,70 @@
 <img src="https://komarev.com/ghpvc/?username=Anoshika-BV&style=flat-square&color=blueviolet"/>
 </p>
 
----
 
 # 👋 Hello, I'm Anoshika
 
 I'm a **Final Year Computer Science Engineering student** passionate about building practical software that solves real-world problems.
+
+
+<!-- ====================================================== -->
+<!--                     ABOUT ME                           -->
+<!-- ====================================================== -->
+
+# 💜 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+### 👩‍💻 Who Am I?
+
+I'm **Anoshika B V**, a Final Year **Computer Science Engineering** student at **Dr. N.G.P. Institute of Technology**.
+
+I enjoy transforming ideas into practical software solutions through **Java** and **Full Stack Development**. My focus is on writing clean, maintainable code while continuously strengthening my problem-solving skills and understanding of software engineering principles.
+
+Currently seeking opportunities where I can contribute, learn, and grow as a software engineer.
+
+</td>
+
+<td width="40%">
+java
+class Anoshika {
+
+    String role =
+        "Software Engineer";
+
+    String[] interests = {
+        "Java",
+        "Full Stack",
+        "Backend",
+        "Problem Solving"
+    };
+
+    String cgpa = "8.69";
+
+    String location =
+        "Coimbatore, India";
+
+}
+
+
+</td>
+</tr>
+</table>
+
+
+## 🎯 Quick Snapshot
+
+| 🎓 Education | 💯 CGPA | 📍 Location |
+|-------------|---------|------------|
+| B.E. Computer Science Engineering | **8.69** | Coimbatore, India |
+
+| 💼 Looking For | ❤️ Interests |
+|---------------|--------------|
+| Software Engineer • Java Developer • Full Stack Developer | Java • Full Stack Development • Backend Development • Software Engineering |
+
+---
 
 I enjoy developing responsive web applications using **Java, PHP, MySQL, JavaScript, HTML, and CSS**, while continuously improving my software engineering, backend development, and problem-solving skills.
 
