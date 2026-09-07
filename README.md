@@ -189,9 +189,6 @@ Outside of academics, I enjoy exploring new technologies, building personal proj
 - 🗑️ Improved waste collection efficiency
 - ⚙️ Hardware and software integration
 
-<p>
-  <img src="https://img.shields.io/badge/Academic%20IoT%20Project-6A5ACD?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
 
 ---
 
