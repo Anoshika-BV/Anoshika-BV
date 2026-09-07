@@ -243,7 +243,6 @@ During my internship, I contributed to the development of responsive web applica
 - Strengthened practical knowledge of full stack web development through real-world projects
 
 
-
 <!-- ====================================================== -->
 <!--                  GITHUB ANALYTICS                      -->
 <!-- ====================================================== -->
@@ -251,16 +250,17 @@ During my internship, I contributed to the development of responsive web applica
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anoshika-BV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Anoshika-BV&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anoshika-BV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Anoshika-BV&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoshika-BV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anoshika-BV&theme=tokyo-night&hide_border=true&area=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoshika-BV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </p>
 
 # 🌐 Connect With Me
