@@ -115,88 +115,107 @@ Outside of academics, I enjoy exploring new technologies, building personal proj
 <img src="https://img.shields.io/badge/Software_Engineering-6A5ACD?style=for-the-badge"/>
 
 </p>
-
 <!-- ====================================================== -->
 <!--                  FEATURED PROJECTS                     -->
 <!-- ====================================================== -->
 
 # 🚀 Featured Projects
 
-<details open>
-<summary><b>💊 MediScanner — Smart Medicine Scanner</b></summary>
+<p align="center">
+  A collection of projects built around healthcare, sustainability, IoT, and interactive web applications.
+</p>
 
 <br>
 
-📖 **Overview**
+## 💊 Mediscan
 
-A healthcare application designed to simplify medicine identification and improve medication awareness through a clean and user-friendly interface.
+> **A healthcare application designed to simplify medicine identification and improve medication awareness through a practical and user-friendly interface.**
 
-🛠 **Tech Stack**
+### 🛠 Tech Stack
 
 `Java` `HTML` `CSS`
 
-✨ **Highlights**
+### ✨ Key Highlights
 
-- Medicine information lookup
-- User-friendly interface
-- Healthcare-focused solution
+- 🔎 Medicine information lookup
+- 💻 Clean and user-friendly interface
+- 🏥 Healthcare-focused solution
+- 🧩 Practical application development
 
-🔗 **Repository**
-
-[![Repository](https://img.shields.io/badge/View_Repository-8A2BE2?style=for-the-badge)](https://github.com/Anoshika-BV/MediScanner)
-
-</details>
+<p>
+  <a href="https://github.com/Anoshika-BV/Mediscan">
+    <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<details>
-<summary><b>♻️ E-Waste Management System</b></summary>
+## ♻️ E-Waste Management System
 
-<br>
+> **A web application designed to promote responsible electronic waste disposal and simplify the management of e-waste collection requests.**
 
-📖 **Overview**
-
-A web application that promotes responsible electronic waste disposal by allowing users to manage and submit e-waste collection requests.
-
-🛠 **Tech Stack**
+### 🛠 Tech Stack
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
-✨ **Highlights**
+### ✨ Key Highlights
 
-- User Registration & Login
-- E-Waste Collection Requests
-- Database Integration
-- Waste Category Management
+- 👤 User registration and authentication
+- ♻️ E-waste collection requests
+- 🗄️ MySQL database integration
+- 📋 Waste category management
+- 🌱 Sustainability-focused web solution
 
-🔗 **Repository**
-
-[![Repository](https://img.shields.io/badge/View_Repository-8A2BE2?style=for-the-badge)](https://github.com/Anoshika-BV/E-Waste-Management-System)
-
-</details>
+<p>
+  <a href="https://github.com/Anoshika-BV/e-waste-management">
+    <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<details>
-<summary><b>🗑 IoT-Based Smart Garbage Collector</b></summary>
+## 🗑️ IoT-Based Smart Garbage Collector
 
-<br>
+> **An IoT-based prototype designed to monitor garbage levels using sensors and support smarter, more efficient waste management.**
 
-📖 **Overview**
-
-An IoT-based prototype that monitors garbage levels using sensors to improve waste collection efficiency.
-
-🛠 **Tech Stack**
+### 🛠 Tech Stack
 
 `Arduino` `IoT`
 
-✨ **Highlights**
+### ✨ Key Highlights
 
-- Sensor-based monitoring
-- Smart alert system
-- Efficient waste management
+- 📡 Sensor-based garbage level monitoring
+- 🚨 Smart alert system
+- 🗑️ Improved waste collection efficiency
+- ⚙️ Hardware and software integration
 
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Academic%20IoT%20Project-6A5ACD?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+## ☕ Luna Roast Chatter
+
+> **An interactive web-based project built around engaging user interaction and modern web development concepts.**
+
+### 🛠 Tech Stack
+
+`Web Development`
+
+### ✨ Key Highlights
+
+- 💬 Interactive user experience
+- 🌐 Web-based application
+- 🎨 Modern interface design
+
+<p>
+  <a href="https://github.com/Anoshika-BV/luna-roast-chatter">
+    <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <!-- ====================================================== -->
 <!--                 PROFESSIONAL EXPERIENCE                -->
